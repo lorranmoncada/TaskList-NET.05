@@ -59,4 +59,7 @@ O projeto foi desenvolvido utilizando os seguintes packages
 Observaçõs: 
 - O Swagger não esta exibindo todos os campos necessários para o request, se achar necessário podera visualizar o codigo fonte. Ainda será analisado o problema com o Swagger.
 - Não foi utilizado ViewModel na aplicação pois todas as pages do front utilizariam os mesmos dados da minha Model, mas se fosse necessário a utilização de Viewmodels eu criaria uma pasta de ViewModel na camada de application e utilizaria o Pacakge AutoMapper para mapegar minha Domain Model para a minha Viewmodel e visse versa ViewModel para Domain Model
+
+---
+
 Desenvolvido 😀 por Lorran Mendes 
